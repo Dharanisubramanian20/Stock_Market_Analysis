@@ -5,7 +5,7 @@ Analyze historical stock data for Apple Inc. (AAPL) to gain insights into stock 
 
 # Data Collection:
 
-Utilized yfinance to fetch historical stock data for Apple Inc. (AAPL) from January 1, 2020, to January 1, 2023.
+Utilized yfinance to fetch historical stock data for Apple Inc. (AAPL) from January 1, 2020, to January 1, 2024.
 
 # Data Exploration:
 
